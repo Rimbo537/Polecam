@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Food",
+        "places": "120 places",
+        "icon": {
+            "ios": "house.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Party",
+        "places": "12 places",
+        "icon": {
+            "ios": "figure.2.and.child.holdinghands",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Drink",
+        "places": "5 places",
+        "icon": {
+            "ios": "graduationcap.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Meat",
+        "places": "27 places",
+        "icon": {
+            "ios": "bed.double.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Fish",
+        "places": "23 places",
+        "icon": {
+            "ios": "fork.knife",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Pizza",
+        "places": "26 places",
+        "icon": {
+            "ios": "theatermasks.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Beer",
+        "places": "7 places",
+        "icon": {
+            "ios": "tshirt.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Desserts",
+        "places": "10 places",
+        "icon": {
+            "ios": "car.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Salads",
+        "places": "19 places",
+        "icon": {
+            "ios": "figure.run",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Vegan",
+        "places": "13 places",
+        "icon": {
+            "ios": "backpack.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Cocktails",
+        "places": "9 places",
+        "icon": {
+            "ios": "mouth.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Alcohol",
+        "places": "30 places",
+        "icon": {
+            "ios": "screwdriver.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Wine",
+        "places": "12 places",
+        "icon": {
+            "ios": "cross.case.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Сoffee",
+        "places": "21 places",
+        "icon": {
+            "ios": "pawprint.fill",
+            "android": "???"
+        }
+    },
+    {
+        "name": "Other",
+        "places": "32 places", 
+        "icon": {
+            "ios": "plus.app.fill",
+            "android": "???"
+        }
+    }
+]
